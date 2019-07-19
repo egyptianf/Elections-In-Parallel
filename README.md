@@ -10,5 +10,5 @@ Data are generated randomly in a file.txt .<br>
 To compile:<br>
  <code>$ mpicc -o elections elections.c</code>
 
-To run:<br> <em>/* change the number to indicate number of processes.*/</em>
+To run: <em>/* change the number to indicate number of processes.*/</em><br>
  <code>$ mpiexec -n 6 elections</code>
